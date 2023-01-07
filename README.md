@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ...
 Making my profile super rad!
-- 🌱 I’m currently learning DevOps and Blockchain!
+- 🌱 I’m currently learning DevOps and AI/ML!
 
 <!--
 **mateuszpoland/mateuszpoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
