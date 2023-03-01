@@ -2,10 +2,9 @@
 
 
 - 🔭 I’m currently working on ...
- - my blog: mateuszpoland.pl
- - learning DevOps engineering
  - finding and fullfilling rising market demand for quality software products
-- 🌱 I’m currently learning DevOps and AI/ML
+- 🌱 I’m currently learning DevOps and rapid SaaS development
+- you can check my writing here: https://medium.com/@mateuszpoland6
 
 <!--
 **mateuszpoland/mateuszpoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
