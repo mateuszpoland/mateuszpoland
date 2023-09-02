@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on ...
- - finding and fullfilling rising market demand for quality software products
-- 🌱 I’m currently learning DevOps and rapid SaaS development
+ - weautomate.agency - AI and process automation agency, focused on intelligent chatbot development
+- 🌱 I’m currently learning & perfecting Symfony Framework for my daily job @PayPo, DevOps with AWS, and AI
 - you can check my writing here: https://medium.com/@mateuszpoland6
 
 <!--
